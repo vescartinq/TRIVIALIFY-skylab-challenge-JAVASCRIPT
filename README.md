@@ -17,4 +17,4 @@ The stack technologies used are:
 
 ## 2. Web Example
 You can view the app online here : 
--work in progress
+https://vescartinq.github.io/TRIVIALIFY-skylab-challenge-JAVASCRIPT/
