@@ -1,4 +1,4 @@
-# TRIVIALIFY-skylab-challnege-JAVASCRIPT
+# TRIVIALIFY-skylab-challenge-JAVASCRIPT
 ***
 
 ## Table of Contents
