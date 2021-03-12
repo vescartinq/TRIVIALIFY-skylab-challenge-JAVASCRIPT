@@ -1,5 +1,6 @@
 # TRIVIALIFY-skylab-challenge-JAVASCRIPT
 ***
+![trivialify](https://user-images.githubusercontent.com/65297719/110898347-5b011100-82ff-11eb-851a-907811b119dc.jpg)
 
 ## Table of Contents
 1. [General Info](#general-info)
