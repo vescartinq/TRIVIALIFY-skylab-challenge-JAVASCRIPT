@@ -10,7 +10,7 @@
 
 
 ## 1. General Info
-Skylab Coders Academy challenge, using Spotifi API to build a music quiz
+Skylab Coders Academy challenge, using Spotify API to build a music quiz
 
 The stack technologies used are: 
 - HTML and CSS (grid, flex and responsive design)
